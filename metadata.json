@@ -1,0 +1,7 @@
+{
+  "name": "EduQuest SMP",
+  "description": "Platform belajar interaktif berbasis AI untuk siswa SMP dengan fitur kuis adaptif, penjelasan konsep instan, dan asisten belajar cerdas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
